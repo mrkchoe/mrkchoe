@@ -3,7 +3,7 @@ Hi, I’m Mark.
 I’m a data engineer and applied machine learning practitioner focused on building
 reproducible data pipelines and evaluation-driven ML systems.
 
-My work spans wearable health data, model comparison and validation, and
+My work spans health data, model comparison and validation, and
 biomedical ML, with experience working with real-world datasets (e.g., ADNI).
 
 Selected work:
