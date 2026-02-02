@@ -9,7 +9,7 @@
   ·
   <a href="www.linkedin.com/in/mark-choe-161p">LinkedIn</a>
   ·
-  <a href="[https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID](https://scholar.google.com/citations?user=dlhfY5wAAAAJ&hl=en&oi=ao)">Google Scholar</a>
+  <a href="https://scholar.google.com/citations?hl=en&user=dlhfY5wAAAAJ">Google Scholar</a>
 </p>
 
 ---
@@ -18,4 +18,4 @@
 - **Wearable data pipeline** — Postgres ingestion → dbt transforms/tests → CI via GitHub Actions  
   → https://github.com/mrkchoe/wearable-data-pipeline
 - **Model comparison / evaluation** — reproducible baselines + metrics + reporting  
-  → https://github.com/mrkchoe/
+  → https://github.com/mrkchoe/ad-mri-pet-model-comparison
