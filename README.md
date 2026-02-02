@@ -1,15 +1,21 @@
-Hi, I’m Mark.
+<h1 align="left">Hi, I'm Mark 👋</h1>
 
-I’m a data engineer and applied machine learning practitioner focused on building
-reproducible data pipelines and evaluation-driven ML systems.
+<p align="left">
+  Data engineering + ML for longitudinal/biomedical data. I build reproducible pipelines, research-grade analyses, and clean model evaluation.
+</p>
 
-My work spans health data, model comparison and validation, and
-biomedical ML, with experience working with real-world datasets (e.g., ADNI).
+<p align="left">
+  <a href="https://github.com/mrkchoe?tab=repositories">View repos</a>
+  ·
+  <a href="www.linkedin.com/in/mark-choe-161p">LinkedIn</a>
+  ·
+  <a href="[https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID](https://scholar.google.com/citations?user=dlhfY5wAAAAJ&hl=en&oi=ao)">Google Scholar</a>
+</p>
 
-Selected work:
-- Wearable data pipeline (local-first ingestion, dbt transformations, CI)  
-  https://github.com/mrkchoe/wearable-data-pipeline
-- Model comparison and evaluation experiments  
-  https://github.com/mrkchoe/ad-mri-pet-model-comparison
-- Alzheimer’s disease imaging / ADNI research project  
-  https://github.com/mrkchoe/publications
+---
+
+### Featured work
+- **Wearable data pipeline** — Postgres ingestion → dbt transforms/tests → CI via GitHub Actions  
+  → https://github.com/mrkchoe/wearable-data-pipeline
+- **Model comparison / evaluation** — reproducible baselines + metrics + reporting  
+  → https://github.com/mrkchoe/
