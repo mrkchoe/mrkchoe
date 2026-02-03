@@ -19,3 +19,5 @@
   → https://github.com/mrkchoe/wearable-data-pipeline
 - **Model comparison / evaluation** — reproducible baselines + metrics + reporting  
   → https://github.com/mrkchoe/ad-mri-pet-model-comparison
+- **ADNI risk scoring API** — research-grade ML inference service exposing Alzheimer’s disease risk scores via a validated FastAPI endpoint (synthetic examples only; no ADNI data distributed)  
+  → https://github.com/mrkchoe/adni-risk-scoring-api
