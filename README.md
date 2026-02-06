@@ -23,6 +23,6 @@
   → https://github.com/mrkchoe/ad-mri-pet-model-comparison
 - **ADNI risk scoring API** — research-grade ML inference service exposing Alzheimer’s disease risk scores via a validated FastAPI endpoint (synthetic examples only; no ADNI data distributed)  
   → https://github.com/mrkchoe/adni-risk-scoring-api
-- **Neuroimaging  publications** — curated bibliographic list of peer-reviewed articles with structured authorship context supporting longitudinal MRI/biomarker research
+- **Neuroimaging  publications** — curated bibliographic list of peer-reviewed articles with structured authorship context supporting longitudinal MRI/biomarker researc
   → https://github.com/mrkchoe/publications
 
