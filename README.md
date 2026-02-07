@@ -23,7 +23,7 @@
   → https://github.com/mrkchoe/ad-mri-pet-model-comparison
 - **ADNI risk scoring API** — research-grade ML inference service exposing Alzheimer’s disease risk scores via a validated FastAPI endpoint (synthetic examples only; no ADNI data distributed)  
   → https://github.com/mrkchoe/adni-risk-scoring-api
-- **Interactive volcano plot** — D3.js visualization for differential analysis with FDR correction, dynamic thresholding, and rich point-level interactions
+- **Interactive volcano plot** — D3.js visualization for differential analysis with FDR correction, dynamic thresholding, and rich point-level interactions  
 → https://github.com/mrkchoe/interactive-volcano-plot
 - **Neuroimaging  publications** — curated bibliographic list of peer-reviewed articles with structured authorship context supporting longitudinal MRI/biomarker research  
   → https://github.com/mrkchoe/publications
