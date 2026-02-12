@@ -28,3 +28,29 @@
 - **Neuroimaging  publications** — curated bibliographic list of peer-reviewed articles with structured authorship context supporting longitudinal MRI/biomarker research  
   → https://github.com/mrkchoe/publications
 
+---
+
+### Technical Stack (Demonstrated in Repos)
+
+**Languages**
+- Python
+- SQL
+- JavaScript (D3.js)
+
+**Data Engineering**
+- Postgres
+- dbt (models, tests, documentation)
+- Docker
+- GitHub Actions (CI pipelines)
+- Relational data modeling
+
+**Machine Learning / Analytics**
+- scikit-learn
+- Cross-validation & performance diagnostics
+- Structured model comparison frameworks
+- Statistical evaluation & reporting
+
+**APIs & Services**
+- FastAPI
+- RESTful inference endpoints
+
