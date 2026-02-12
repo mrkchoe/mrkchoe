@@ -31,26 +31,11 @@
 ---
 
 ### Technical Stack (Demonstrated in Repos)
-
-**Languages**
-- Python
-- SQL
-- JavaScript (D3.js)
-
-**Data Engineering**
-- Postgres
-- dbt (models, tests, documentation)
-- Docker
-- GitHub Actions (CI pipelines)
-- Relational data modeling
-
-**Machine Learning / Analytics**
-- scikit-learn
-- Cross-validation & performance diagnostics
-- Structured model comparison frameworks
-- Statistical evaluation & reporting
-
-**APIs & Services**
-- FastAPI
-- RESTful inference endpoints
-
+- **Python, SQL** (data ingestion, modeling, evaluation)
+- **Postgres** (relational modeling + analytics)
+- **dbt** (transforms, tests, docs)
+- **Docker** (local dev + reproducibility)
+- **GitHub Actions** (CI for tests/linting)
+- **FastAPI** (research-grade inference API)
+- **JavaScript + D3.js** (interactive volcano plot)
+- **scikit-learn** (cross-validation, metrics, model comparison)
