@@ -15,7 +15,7 @@
 ---
 
 ### Featured work
-- **Neuroimaging structural pipeline** — DICOM T1 ingestion → FreeSurfer `recon-all` segmentation → volumetric + cortical thickness extraction → Postgres loading for analytics-ready MRI phenotypes  
+- **Neuroimaging structural pipeline** — raw medical image ingestion → automated segmentation & feature extraction → structured metric generation → PostgreSQL loading for analytics-ready datasets
   → https://github.com/mrkchoe/neuroimaging-structural-pipeline
 - **Model comparison / evaluation** — reproducible baselines + metrics + reporting  
   → https://github.com/mrkchoe/ad-mri-pet-model-comparison
