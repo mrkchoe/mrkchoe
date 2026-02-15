@@ -31,11 +31,8 @@
 ---
 
 ### Technical Stack (Demonstrated in Repos)
-- **Python, SQL** (data ingestion, modeling, evaluation)
-- **Postgres** (relational modeling + analytics)
-- **dbt** (transforms, tests, docs)
-- **Docker** (local dev + reproducibility)
-- **GitHub Actions** (CI for tests/linting)
-- **FastAPI** (research-grade inference API)
-- **JavaScript + D3.js** (interactive volcano plot)
-- **scikit-learn** (cross-validation, metrics, model comparison)
+- **Languages:** Python, SQL
+- **Data Engineering:** Postgres, dbt, Docker, GitHub Actions
+- **ML Pipelines & Evaluation:** scikit-learn, cross-validation, metrics
+- **APIs & Web Apps:** FastAPI, Flask
+- **Visualization:** JavaScript (D3.js)
