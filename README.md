@@ -47,3 +47,12 @@ Structured model comparison & research-grade reporting
 **Visualization**  
 D3.js (interactive statistical visualization)  
 Seaborn (statistical plots & model diagnostics)
+
+---
+
+### Additional Experience (Non-Public / Professional Work)
+Java / R
+AWS (EC2, S3, SageMaker)  
+TensorFlow / Pytorch / Neural network modeling  
+Longitudinal biomedical dataset management  
+HPC / batch compute environments 
