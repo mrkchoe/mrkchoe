@@ -30,9 +30,20 @@
 
 ---
 
-### Technical Stack (Demonstrated in Repos)
-- **Languages:** Python, SQL
-- **Data Engineering:** Postgres, dbt, Docker, GitHub Actions
-- **ML Pipelines & Evaluation:** scikit-learn, cross-validation, metrics
-- **APIs & Web Apps:** FastAPI, Flask
-- **Visualization:** JavaScript (D3.js)
+## Core Capabilities
+
+**Languages**  
+Python · SQL  
+
+**Data Engineering & Infrastructure**  
+PostgreSQL · dbt (models, tests, documentation) · Docker · GitHub Actions  
+Relational schema design · Data validation · Reproducible pipelines  
+
+**Machine Learning & Evaluation**  
+scikit-learn · Feature preprocessing · Cross-validation frameworks  
+Performance diagnostics (ROC, PR curves, confusion matrices)  
+Structured model comparison & research-grade reporting  
+
+**Visualization**  
+D3.js (interactive statistical visualization)  
+Seaborn (statistical plots & model diagnostics)
