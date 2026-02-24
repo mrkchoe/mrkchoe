@@ -33,11 +33,12 @@
 ## Core Capabilities
 
 **Languages**  
-Python · SQL  
+Python · SQL 
 
 **Data Engineering & Infrastructure**  
 PostgreSQL · dbt (models, tests, documentation) · Docker · GitHub Actions  
 Relational schema design · Data validation · Reproducible pipelines  
+HPC / batch compute environments (SLURM integration)
 
 **Machine Learning & Evaluation**  
 scikit-learn · Feature preprocessing · Cross-validation frameworks  
@@ -45,14 +46,13 @@ Performance diagnostics (ROC, PR curves, confusion matrices)
 Structured model comparison & research-grade reporting  
 
 **Visualization**  
-D3.js (interactive statistical visualization)  
+D3.js (interactive statistical visualization - JavaScript-based)  
 Seaborn (statistical plots & model diagnostics)
 
 ---
 
 ### Additional Experience (Non-Public / Professional Work)
-Java / R
+Java / R / Bash
 AWS (EC2, S3, SageMaker)  
 TensorFlow / Pytorch / Neural network modeling  
 Longitudinal biomedical dataset management  
-HPC / batch compute environments 
