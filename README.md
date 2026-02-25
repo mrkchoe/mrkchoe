@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Mark 🧠</h1>
 
 <p align="left">
-  <strong>MS Analytics — Georgia Tech · BS Cognitive Science (ML & Neurocomputational Focus) — UCSD</strong>
+  <strong>MS Analytics (Computational Data Track) — Georgia Tech · BS Cognitive Science (ML & Neurocomputational Focus) — UCSD</strong>
 </p>
 
 <p align="left">
