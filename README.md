@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Mark 👋</h1>
+<h1 align="left">Hi, I'm Mark 🧠</h1>
 
 <p align="left">
   Data engineering + ML for longitudinal/biomedical data. I build reproducible pipelines, research-grade analyses, and clean model evaluation.
