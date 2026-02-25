@@ -1,7 +1,8 @@
 <h1 align="left">Hi, I'm Mark 🧠</h1>
 
 <p align="left">
-  <strong>MS Analytics (Georgia Tech)</strong><br/>
+  <strong>MS Analytics — Georgia Tech</strong> · BS Cognitive Science (ML & Neurocomputational Focus) — UCSD
+</p>
 
 <p align="left">
   Data engineering + ML for longitudinal/biomedical data. I build reproducible pipelines, research-grade analyses, and clean model evaluation.
