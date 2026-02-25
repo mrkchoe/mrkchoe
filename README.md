@@ -1,5 +1,9 @@
 <h1 align="left">Hi, I'm Mark 🧠</h1>
-MS Analytics (Georgia Tech)
+
+<p align="left">
+  <strong>MS Analytics (Georgia Tech)</strong><br/>
+  Data engineering + ML for longitudinal/biomedical data. I build reproducible pipelines, research-grade analyses, and clean model evaluation.
+</p>
 
 <p align="left">
   Data engineering + ML for longitudinal/biomedical data. I build reproducible pipelines, research-grade analyses, and clean model evaluation.
