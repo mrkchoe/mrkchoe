@@ -55,7 +55,7 @@ Seaborn (statistical plots & model diagnostics)
 
 ---
 
-### Additional Experience (Non-Public / Professional Work)
+### Additional Experience (Non-Public / Professional Work / Academic Work)
 Java / R / Bash
 AWS (EC2, S3, SageMaker)  
 TensorFlow / Pytorch / Neural network modeling  
