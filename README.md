@@ -25,8 +25,6 @@
   → https://github.com/mrkchoe/ad-mri-pet-model-comparison
 - **Wearable data pipeline** — Postgres ingestion → dbt transforms/tests → CI via GitHub Actions  
   → https://github.com/mrkchoe/wearable-data-pipeline
-- **Interactive volcano plot** — D3.js visualization for differential analysis with FDR correction, dynamic thresholding, and rich point-level interactions  
-  → https://github.com/mrkchoe/interactive-volcano-plot
 - **Sanctuary operations data platform** — operational data modeling and SQL-based reporting for intake, care, adoption, and cost analytics in a sanctuary environment  
   → https://github.com/mrkchoe/sanctuary-operations-data-platform
 - **Neuroimaging  publications** — curated bibliographic list of peer-reviewed articles with structured authorship context supporting longitudinal MRI/biomarker research  
