@@ -27,6 +27,8 @@
   → https://github.com/mrkchoe/wearable-data-pipeline
 - **Sanctuary operations data platform** — operational data modeling and SQL-based reporting for intake, care, adoption, and cost analytics in a sanctuary environment  
   → https://github.com/mrkchoe/sanctuary-operations-data-platform
+- **Airflow API → PostgreSQL ELT pipeline** — Dockerized Apache Airflow DAG orchestrating API ingestion, structured transformation, PostgreSQL loading, and basic data validation in a reproducible local environment  
+  → https://github.com/mrkchoe/airflow-api-to-postgres-demo
 - **Neuroimaging  publications** — curated bibliographic list of peer-reviewed articles with structured authorship context supporting longitudinal MRI/biomarker research  
   → https://github.com/mrkchoe/publications
 
@@ -38,17 +40,18 @@
 Python · SQL 
 
 **Data Engineering & Infrastructure**  
-PostgreSQL · dbt (models, tests, documentation) · Docker · GitHub Actions  
-Relational schema design · Data validation · Reproducible pipelines  
-HPC / batch compute environments (SLURM integration)
+PostgreSQL · Apache Airflow · dbt (models, tests, documentation)
+Docker · GitHub Actions
+Relational schema design · Data validation · Reproducible batch pipelines
+HPC / batch compute environments (SLURM)
 
 **Machine Learning & Evaluation**  
-scikit-learn · Feature preprocessing · Cross-validation frameworks  
-Performance diagnostics (ROC, PR curves, confusion matrices)  
-Structured model comparison & research-grade reporting  
+scikit-learn · Feature preprocessing
+Cross-validation frameworks · Model evaluation diagnostics (ROC, PR, confusion matrices)
+Structured model comparison & research-grade reporting
 
 **Visualization**  
-D3.js (interactive statistical visualization - JavaScript-based)  
+D3.js (interactive statistical visualization)
 Seaborn (statistical plots & model diagnostics)
 
 ---
