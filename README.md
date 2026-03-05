@@ -40,24 +40,24 @@
 Python · SQL 
 
 **Data Engineering & Infrastructure**  
-PostgreSQL · Apache Airflow · dbt (models, tests, documentation)
-Docker · GitHub Actions
-Relational schema design · Data validation · Reproducible batch pipelines
+PostgreSQL · Apache Airflow · dbt (models, tests, documentation)  
+Docker · GitHub Actions  
+Relational schema design · Data validation · Reproducible batch pipelines  
 HPC / batch compute environments (SLURM)
 
 **Machine Learning & Evaluation**  
-scikit-learn · Feature preprocessing
-Cross-validation frameworks · Model evaluation diagnostics (ROC, PR, confusion matrices)
+scikit-learn · Feature preprocessing  
+Cross-validation frameworks · Model evaluation diagnostics (ROC, PR, confusion matrices)  
 Structured model comparison & research-grade reporting
 
 **Visualization**  
-D3.js (interactive statistical visualization)
+D3.js (interactive statistical visualization)  
 Seaborn (statistical plots & model diagnostics)
 
 ---
 
 ### Additional Experience (Non-Public / Professional Work / Academic Work)
-Java / R / Bash
-AWS (EC2, S3, SageMaker)  
+Java / R / Bash  
+AWS (EC2, S3, SageMaker)   
 TensorFlow / Pytorch / Neural network modeling  
 Longitudinal biomedical dataset management  
