@@ -19,12 +19,10 @@
 ---
 
 ### Featured work
-- **Neuroimaging structural pipeline** — raw medical image ingestion → automated segmentation & feature extraction → structured metric generation → PostgreSQL loading for analytics-ready datasets  
-  → https://github.com/mrkchoe/neuroimaging-structural-pipeline
-- **Model comparison / evaluation** — reproducible baselines + metrics + reporting  
-  → https://github.com/mrkchoe/ad-mri-pet-model-comparison
 - **Wearable data pipeline** — Postgres ingestion → dbt transforms/tests → CI via GitHub Actions  
   → https://github.com/mrkchoe/wearable-data-pipeline
+- **Model comparison / evaluation** — reproducible baselines + metrics + reporting  
+  → https://github.com/mrkchoe/ad-mri-pet-model-comparison
 - **Sanctuary operations data platform** — operational data modeling and SQL-based reporting for intake, care, adoption, and cost analytics in a sanctuary environment  
   → https://github.com/mrkchoe/sanctuary-operations-data-platform
 - **Airflow API → PostgreSQL ELT pipeline** — Dockerized Apache Airflow DAG orchestrating API ingestion, structured transformation, PostgreSQL loading, and basic data validation in a reproducible local environment  
@@ -43,7 +41,6 @@ Python · SQL
 PostgreSQL · Apache Airflow · dbt (models, tests, documentation)  
 Docker · GitHub Actions  
 Relational schema design · Data validation · Reproducible batch pipelines  
-HPC / batch compute environments (SLURM)
 
 **Machine Learning & Evaluation**  
 scikit-learn · Feature preprocessing  
