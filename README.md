@@ -19,6 +19,8 @@
 ---
 
 ### Featured work
+- **Satellite imagery batch pipeline** — synthetic data ingestion → parallel tile processing (Slurm) → feature extraction → SQLite + SQL analytics  
+→ https://github.com/mrkchoe/satellite-imagery-batch-pipeline
 - **Wearable data pipeline** — Postgres ingestion → dbt transforms/tests → CI via GitHub Actions  
   → https://github.com/mrkchoe/wearable-data-pipeline
 - **Model comparison / evaluation** — reproducible baselines + metrics + reporting  
