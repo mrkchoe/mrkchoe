@@ -19,18 +19,18 @@
 ---
 
 ### Featured work
-- **Satellite imagery batch pipeline** — synthetic data ingestion → parallel tile processing (Slurm) → feature extraction → SQLite + SQL analytics  
-→ https://github.com/mrkchoe/satellite-imagery-batch-pipeline
 - **Wearable data pipeline** — Postgres ingestion → dbt transforms/tests → CI via GitHub Actions  
   → https://github.com/mrkchoe/wearable-data-pipeline
-- **Model comparison / evaluation** — reproducible baselines + metrics + reporting  
-  → https://github.com/mrkchoe/ad-mri-pet-model-comparison
-- **Sanctuary operations data platform** — operational data modeling and SQL-based reporting for intake, care, adoption, and cost analytics in a sanctuary environment  
-  → https://github.com/mrkchoe/sanctuary-operations-data-platform
+- **Satellite imagery batch pipeline** — synthetic data ingestion → parallel tile processing (Slurm) → feature extraction → SQLite + SQL analytics  
+  → https://github.com/mrkchoe/satellite-imagery-batch-pipeline
 - **Airflow API → PostgreSQL ELT pipeline** — Dockerized Apache Airflow DAG orchestrating API ingestion, structured transformation, PostgreSQL loading, and basic data validation in a reproducible local environment  
   → https://github.com/mrkchoe/airflow-api-to-postgres-demo
-- **Neuroimaging  publications** — curated bibliographic list of peer-reviewed articles with structured authorship context supporting longitudinal MRI/biomarker research  
-  → https://github.com/mrkchoe/publications
+- **Multi-agent workflow platform** — cloud-based role-specialized AI agents with task orchestration, shared state, approval checkpoints, and audit logging  
+  → https://github.com/mrkchoe/agentops-cloud-platform
+- **Sanctuary operations data platform** — operational data modeling and SQL-based reporting for intake, care, adoption, and cost analytics in a sanctuary environment  
+  → https://github.com/mrkchoe/sanctuary-operations-data-platform
+- **Model comparison / evaluation** — reproducible baselines + metrics + reporting  
+  → https://github.com/mrkchoe/ad-mri-pet-model-comparison
 
 ---
 
