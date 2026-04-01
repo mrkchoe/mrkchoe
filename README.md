@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Data engineering + ML for longitudinal/biomedical data. I build reproducible pipelines, research-grade analyses, and clean model evaluation.
+ Data engineer focused on building reliable data pipelines and evaluation systems for complex, longitudinal datasets. Experience translating messy, real-world data into structured, queryable systems for analytics and modeling.
 </p>
 
 <p align="left">
