@@ -19,7 +19,7 @@
 ---
 
 ### Featured work
-- **Wearable data pipeline** — Postgres ingestion → dbt transforms/tests → CI via GitHub Actions  
+- **Wearable data pipeline** — Partitioned ingestion into a data lake (S3/MinIO), Airflow-orchestrated ELT pipeline, dbt transformations/tests, and Postgres serving layer with data quality checks and CI via GitHub Actions  
   → https://github.com/mrkchoe/wearable-data-pipeline
 - **Satellite imagery batch pipeline** — synthetic data ingestion → parallel tile processing (Slurm) → feature extraction → SQLite + SQL analytics  
   → https://github.com/mrkchoe/satellite-imagery-batch-pipeline
