@@ -38,7 +38,7 @@
 
 ---
 
-## Core Capabilities
+### Core Capabilities
 
 **Languages**  
 Python · SQL  
@@ -59,7 +59,7 @@ D3.js (interactive statistical visualization) · Seaborn (statistical plots & mo
 
 ---
 
-### Additional experience (non-public / professional / academic)
+### Additional Experience (non-public / professional / academic)
 Java · R · Bash  
 AWS (EC2, S3, SageMaker)  
 TensorFlow · PyTorch · Neural network modeling  
