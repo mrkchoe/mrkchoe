@@ -22,7 +22,7 @@
 
 ---
 
-### Featured work
+### Featured Work
 - **Wearable data pipeline** — Partitioned ingestion into a data lake (S3/MinIO), Airflow-orchestrated ELT, dbt models/tests/docs, Postgres serving layer, data quality checks, CI via GitHub Actions  
   → https://github.com/mrkchoe/wearable-data-pipeline
 - **Satellite imagery batch pipeline** — Synthetic data ingestion → parallel tile processing (Slurm) → feature extraction → SQLite + SQL analytics  
@@ -38,7 +38,7 @@
 
 ---
 
-## Core capabilities
+## Core Capabilities
 
 **Languages**  
 Python · SQL  
