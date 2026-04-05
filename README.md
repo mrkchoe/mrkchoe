@@ -9,10 +9,6 @@
 </p>
 
 <p align="left">
-  <em>Targeting mid-level data engineering roles</em> where I can deepen production pipelines, partner with analysts and ML stakeholders, and keep datasets observable, documented, and reproducible.
-</p>
-
-<p align="left">
   <a href="https://github.com/mrkchoe?tab=repositories">View repos</a>
   ·
   <a href="https://www.linkedin.com/in/mark-choe-161p">LinkedIn</a>
