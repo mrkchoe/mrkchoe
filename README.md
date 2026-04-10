@@ -31,7 +31,7 @@
 - **Multi-agent workflow platform** — Cloud-based agent system with orchestration, shared state, approval checkpoints, and audit logging  
   → https://github.com/mrkchoe/agentops-cloud-platform  
 
-- **Sanctuary operations data platform** — Relational modeling and SQL-based reporting for operational analytics (intake, care, adoption, cost)  
+- **Sanctuary operations data platform** — Relational modeling and SQL-based reporting for operational analytics  
   → https://github.com/mrkchoe/sanctuary-operations-data-platform  
 
 - **Model comparison / evaluation** — Reproducible ML baselines, evaluation pipelines, and reporting framework  
