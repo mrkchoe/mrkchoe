@@ -36,33 +36,11 @@
 
 ### Core Capabilities
 
-**Languages**  
-SQL · Python  
-
-**Analytics Engineering**  
-dbt (models, tests, documentation)  
-Dimensional modeling (fact/dimension design)  
-SQL-based transformations and data marts  
-Metric definition and consistency across datasets  
-Data validation, testing, and reproducibility  
-
-**Data Platform & Infrastructure (supporting)**  
-PostgreSQL · Apache Airflow  
-Docker · GitHub Actions (CI for data workflows)  
-Batch ELT workflows · Containerized environments  
-
-**Analytics & Data Workflows**  
-Exploratory analysis on structured datasets  
-Longitudinal data modeling and standardization  
-Documentation of datasets and transformation logic  
-
-**Machine Learning (supporting)**  
-Feature engineering · Model evaluation frameworks  
-Structured experimentation and reproducible pipelines  
-
-**Visualization**  
-D3.js (interactive) · Seaborn  
-
+- Analytics data modeling (dbt; raw → staging → marts; dimensional design)  
+- Metric definition and data quality (tested transformations, reproducibility)  
+- SQL-based data marts for reporting and downstream analysis  
+- Supporting data platform tools: PostgreSQL, Airflow, Docker, CI workflows
+  
 ---
 
 ### Additional Experience
