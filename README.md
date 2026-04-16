@@ -1,11 +1,8 @@
+  
 <h1 align="left">Hi, I'm Mark 🧠</h1>
 
 <p align="left">
-  <strong>Data Engineer</strong> · MS Analytics (Computational Data Track), Georgia Tech · BS Cognitive Science (ML & Neurocomputational Focus), UCSD
-</p>
-
-<p align="left">
-  I design and maintain <strong>end-to-end data pipelines</strong>—from ingestion and orchestration to transformation, testing, and serving—enabling reliable analytics and modeling workflows. Experienced in ELT systems, relational data modeling, and data quality within containerized and cloud-based environments.
+  <strong>Analytics Engineer</strong> · MS Analytics (Computational Data Track), Georgia Tech · BS Cognitive Science (ML & Neurocomputational Focus), UCSD
 </p>
 
 <p align="left">
@@ -19,45 +16,52 @@
 ---
 
 ### Featured Work
-- **Wearable data pipeline** — Partitioned ingestion (S3/MinIO), Airflow-orchestrated ELT, dbt models/tests/docs, Postgres serving layer, data quality checks, CI via GitHub Actions  
+
+- **Wearable analytics warehouse** — dbt-based data modeling (raw → staging → marts) with tested transformations, documented schemas, and reproducible metric definitions for activity and sleep datasets  
   → https://github.com/mrkchoe/wearable-data-pipeline  
 
-- **Satellite imagery batch pipeline** — Synthetic ingestion → parallel tile processing (Slurm) → feature extraction → SQLite analytics layer  
-  → https://github.com/mrkchoe/satellite-imagery-batch-pipeline  
-
-- **Airflow API → PostgreSQL ELT pipeline** — Dockerized Airflow DAG for API ingestion, transformation, loading, and validation in a reproducible local environment  
-  → https://github.com/mrkchoe/airflow-api-to-postgres-demo  
-
-- **Multi-agent workflow platform** — Cloud-based agent system with orchestration, shared state, approval checkpoints, and audit logging  
-  → https://github.com/mrkchoe/agentops-cloud-platform  
-
-- **Sanctuary operations data platform** — Relational modeling and SQL-based reporting for operational analytics  
+- **Sanctuary analytics platform** — dimensional modeling and SQL-based reporting layer for intake, care, adoption, and cost metrics with consistent business logic definitions  
   → https://github.com/mrkchoe/sanctuary-operations-data-platform  
 
-- **Model comparison / evaluation** — Reproducible ML baselines, evaluation pipelines, and reporting framework  
-  → https://github.com/mrkchoe/ad-mri-pet-model-comparison  
+- **API → analytics warehouse (Airflow + Postgres)** — orchestrated ingestion feeding structured warehouse models; focuses on transformation, validation, and analytics-ready table design  
+  → https://github.com/mrkchoe/airflow-api-to-postgres-demo  
+
+- **Satellite imagery analytics pipeline** — batch processing with downstream structured feature tables and SQL-based analysis layer for large-scale spatial datasets  
+  → https://github.com/mrkchoe/satellite-imagery-batch-pipeline  
+
+- **Multi-agent workflow platform** — structured data flows and state management supporting task orchestration, auditability, and downstream analysis  
+  → https://github.com/mrkchoe/agentops-cloud-platform  
 
 ---
 
 ### Core Capabilities
 
 **Languages**  
-Python · SQL  
+SQL · Python  
 
-**Data Engineering & Infrastructure**  
-PostgreSQL · Apache Airflow · dbt (models, tests, documentation)  
-Docker · GitHub Actions (CI/CD for pipelines)  
-Data modeling (relational / dimensional) · Data validation & testing · Batch ELT workflows  
+**Analytics Engineering**  
+dbt (models, tests, documentation)  
+Dimensional modeling (fact/dimension design)  
+SQL-based transformations and data marts  
+Metric definition and consistency across datasets  
+Data validation, testing, and reproducibility  
 
-**Analytics & Collaboration**  
-SQL-first data marts · Pipeline documentation · Handling longitudinal, real-world datasets  
+**Data Platform & Infrastructure (supporting)**  
+PostgreSQL · Apache Airflow  
+Docker · GitHub Actions (CI for data workflows)  
+Batch ELT workflows · Containerized environments  
 
-**Machine Learning (supporting DE workflows)**  
-scikit-learn · Feature engineering · Cross-validation · Evaluation (ROC, PR, confusion matrices)  
-Reproducible experimentation and structured model comparison  
+**Analytics & Data Workflows**  
+Exploratory analysis on structured datasets  
+Longitudinal data modeling and standardization  
+Documentation of datasets and transformation logic  
+
+**Machine Learning (supporting)**  
+Feature engineering · Model evaluation frameworks  
+Structured experimentation and reproducible pipelines  
 
 **Visualization**  
-D3.js (interactive) · Seaborn (statistical plots, diagnostics)  
+D3.js (interactive) · Seaborn  
 
 ---
 
@@ -65,4 +69,4 @@ D3.js (interactive) · Seaborn (statistical plots, diagnostics)
 Java · R · Bash  
 AWS (EC2, S3, SageMaker)  
 TensorFlow · PyTorch  
-Longitudinal biomedical data systems   
+Large-scale longitudinal biomedical datasets  
