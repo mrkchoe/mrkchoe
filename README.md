@@ -32,6 +32,9 @@
 - **Multi-agent workflow platform** — structured data flows and state management supporting task orchestration, auditability, and downstream analysis  
   → https://github.com/mrkchoe/agentops-cloud-platform  
 
+- **AD MRI/PET model comparison** — structured evaluation framework comparing modalities with consistent preprocessing, metric reporting, and reproducible benchmarking outputs  
+→ https://github.com/mrkchoe/ad-mri-pet-model-comparison
+
 ---
 
 ### Core Capabilities
