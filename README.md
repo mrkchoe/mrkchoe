@@ -17,6 +17,9 @@
 
 ### Featured Work
 
+- **EHR interoperability pipeline** — multi-format ingestion (FHIR NDJSON, HL7 v2, CSV) → unified schema with Python + dbt, producing validated patient, encounter, and observation models for analytics-ready healthcare data  
+  → https://github.com/mrkchoe/ehr-interoperability-analytics-pipeline
+
 - **Wearable analytics warehouse** — dbt-based data modeling (raw → staging → marts) with tested transformations, documented schemas, and reproducible metric definitions for activity and sleep datasets  
   → https://github.com/mrkchoe/wearable-data-pipeline  
 
@@ -27,10 +30,7 @@
   → https://github.com/mrkchoe/airflow-api-to-postgres-demo  
 
 - **Satellite imagery analytics pipeline** — batch processing with downstream structured feature tables and SQL-based analysis layer for large-scale spatial datasets  
-  → https://github.com/mrkchoe/satellite-imagery-batch-pipeline  
-
-- **Multi-agent workflow platform** — structured data flows and state management supporting task orchestration, auditability, and downstream analysis  
-  → https://github.com/mrkchoe/agentops-cloud-platform  
+  → https://github.com/mrkchoe/satellite-imagery-batch-pipeline   
 
 - **AD MRI/PET model comparison** — structured evaluation framework comparing modalities with consistent preprocessing, metric reporting, and reproducible benchmarking outputs  
 → https://github.com/mrkchoe/ad-mri-pet-model-comparison
