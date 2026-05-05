@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I'm Mark 🧠</h1>
 
 <p align="left">
-  <strong>Analytics Engineer | Data Engineer</strong> · MS Analytics (Computational Data Track), Georgia Tech · BS Cognitive Science (ML & Neurocomputational Focus), UCSD
+  <strong>Data Engineer</strong> · MS Analytics (Computational Data Track), Georgia Tech · BS Cognitive Science (ML & Neurocomputational Focus), UCSD
 </p>
 
 <p align="left">
