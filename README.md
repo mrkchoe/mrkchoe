@@ -5,6 +5,8 @@
   <strong>Data Engineer</strong> · MS Analytics (Computational Data Track), Georgia Tech · BS Cognitive Science (ML & Neurocomputational Focus), UCSD
 </p>
 
+Data engineer with experience building and operating data workflows for large-scale biomedical and imaging datasets, spanning ingestion, validation, processing, quality control, and analytics-ready delivery. I use Python and SQL professionally, with additional hands-on work in dbt, Airflow, and modern data engineering architectures.
+
 <p align="left">
   <a href="https://github.com/mrkchoe?tab=repositories">Repositories</a>
   ·
